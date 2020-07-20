@@ -3,4 +3,5 @@
 /dist/
 /*.js
 *.vue
+*.js
 /test/unit/coverage/
